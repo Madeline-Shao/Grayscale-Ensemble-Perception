@@ -1,3 +1,4 @@
+%@author: Madeline Shao
 %the grayscale version of the other ensemble perception experiment
 try
 	clear all;
